@@ -31,7 +31,7 @@ function Navbar() {
         <div className="large_menu_container">
           <AddIcon className="Right_Icon" />
           <ArrowDropDownIcon className=" ArrowIcon" />
-          <img src="https://avatars.githubusercontent.com/u/62050249?s=460&u=0e0a1c398dac0b29e7283b2626b7f5b71fbddd0f&v=4" alt="" className="header_profil"/>
+          <img src="https://cdn4.vectorstock.com/i/thumb-large/51/48/cartoon-character-in-glasses-avatar-young-man-vector-33215148.jpg" alt="" className="header_profil"/>
           <ArrowDropDownIcon className=" ArrowIcon" />
         </div>
       </div>

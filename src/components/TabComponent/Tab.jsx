@@ -24,8 +24,8 @@ function Tab() {
     <div className={`Tab ${show && "tab_sticky"}`}>
       <div className="user_infos">
         <div className={`profil_infos ${showProfil && "showP"}`}>
-          <img src="https://avatars.githubusercontent.com/u/62050249?s=460&u=0e0a1c398dac0b29e7283b2626b7f5b71fbddd0f&v=4" alt="" className="header_profil" style={{width: "40px", height: "40px"}}/>
-          <h4>niemet0502</h4>
+          <img src="https://cdn4.vectorstock.com/i/thumb-large/51/48/cartoon-character-in-glasses-avatar-young-man-vector-33215148.jpg" alt="" className="header_profil" style={{width: "40px", height: "40px",border:"1px black solid",borderRadius:"50%"}}/>
+          <h4>raut_sagar07</h4>
         </div>
       </div>
       <div className="TabContent" >

@@ -97,6 +97,11 @@
   border-radius: 5px;
   padding: 5px 20px;
 }
+.user_description .canva{
+  width: 97%;
+}
+
+
 .user_description_profile{
   display: flex;
   align-items: center;
